@@ -15,5 +15,5 @@
 [!] Test Anonterm to make sure it is configured properly!
 
 ##########################################
-### E-mail: hassanfarescodes@gmail.com ###
+### E-mail: hassanfareswork@gmail.com ###
 ##########################################
